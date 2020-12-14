@@ -1,0 +1,3 @@
+/home/phongnlt/Documents/code/test2/CMakeFiles/rebuild_cache.dir
+/home/phongnlt/Documents/code/test2/CMakeFiles/test2.dir
+/home/phongnlt/Documents/code/test2/CMakeFiles/edit_cache.dir
